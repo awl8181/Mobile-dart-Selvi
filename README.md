@@ -1,51 +1,16 @@
-# Project Fungsi Dart (Flutter UI)
+# tugas_il
 
-## Deskripsi
+A new Flutter project.
 
-Project ini dibuat untuk memenuhi tugas pemrograman dasar mengenai penggunaan function dalam bahasa Dart.
-Aplikasi dibuat menggunakan Flutter dan memiliki tiga fitur utama:
+## Getting Started
 
-1. Menyapa
-2. Menghitung luas persegi
-3. Menghitung harga setelah diskon
+This project is a starting point for a Flutter application.
 
-## Cara Kerja Aplikasi
+A few resources to get you started if this is your first Flutter project:
 
-### 1. Menyapa
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-User memasukkan nama, kemudian sistem akan menampilkan sapaan sesuai input.
-
-### 2. Luas Persegi
-
-User memasukkan nilai sisi, lalu sistem menghitung luas menggunakan rumus:
-Luas = sisi × sisi
-
-### 3. Diskon
-
-User memasukkan harga dan nilai diskon, kemudian sistem menghitung harga akhir setelah diskon.
-
-## Konsep Function
-
-Dalam project ini digunakan beberapa jenis function:
-
-* Function tanpa parameter tanpa return
-* Function dengan parameter tanpa return
-* Function tanpa parameter dengan return
-* Function dengan parameter dengan return
-
-Function digunakan untuk memisahkan logika program agar lebih terstruktur dan mudah dipahami.
-
-## Tampilan
-
-Aplikasi menggunakan tampilan berbasis UI dengan tema warna coklat dan terdiri dari beberapa bagian (card) untuk setiap fitur.
-
-## Cara Menjalankan
-
-1. Install Flutter
-2. Jalankan perintah berikut di terminal:
-
-flutter run
-
-## Kesimpulan
-
-Project ini membantu memahami konsep dasar function dan penerapannya dalam aplikasi sederhana berbasis UI.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
